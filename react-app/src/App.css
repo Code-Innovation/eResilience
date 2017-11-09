@@ -4,7 +4,7 @@
 
 .App #logo {
   margin: auto;
-  margin-top: 200px;
+  margin-top: 150px;
   margin-bottom: 120px;
   width: 360px;
 }
@@ -21,4 +21,8 @@
   padding-right: 50px;
   border-radius: 15px;
   background-color: #ADDCE5;
+}
+
+.App button.active {
+  border: none;
 }
