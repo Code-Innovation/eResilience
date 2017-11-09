@@ -1,20 +1,19 @@
 import React, { Component } from 'react';
-import logo from './logo.png';
+import {HashRouter as Router, Route} from 'react-router-dom'
+
+import Home from './Home'
 import './App.css';
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <div id='logo'>
-          <img src={logo} alt='eResilience' title='eResilience' />
-          <div id='version'>
-          Field Version 1.0
-          </div>
+      <Router>
+        <div>
+          <Route path='/' exact={true} component={Home} />
+          <Route path='/menu' render={() => (<div>Menu</div>)} />
         </div>
+      </Router>
 
-        <button>Start</button>
-      </div>
     );
   }
 }
