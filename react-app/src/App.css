@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.App #logo {
+  margin-top: 200px;
+  margin-bottom: 120px;
+}
+
+.App #version {
+  width: 360px;
+  margin: auto;
+  margin-left: 50px;
+  margin-top: -5px;
+}
+
+.App button {
+  font-size: 2em;
+  padding: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  border-radius: 15px;
+  background-color: #ADDCE5;
+}
