@@ -3,14 +3,14 @@
 }
 
 .App #logo {
+  margin: auto;
   margin-top: 200px;
   margin-bottom: 120px;
+  width: 360px;
 }
 
 .App #version {
-  width: 360px;
-  margin: auto;
-  margin-left: 50px;
+  margin-left: 110px;
   margin-top: -5px;
 }
 
