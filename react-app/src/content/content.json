@@ -1,0 +1,25 @@
+[
+  { 
+    "title": "Day 1",
+    "exercises": [
+      {
+        "title": "Hand Warming",
+        "objective": "The goal of this exercise is to reduce stress of your participants using a guided visualization technique where they use the power of their imagination",
+        "steps": [
+          "Ask participants to close their eyes, take a few deep breaths, and notice how their bodies feel by following the air travel inside their bodies.",
+          "When they are calm and relaxed, ask them to pay attention to their hands. Where is it resting? Is it warm or cold?",
+          "Give examples to help them imagine their hands getting  warmer. (being under the sun, cooking, someone holding your hand, etc.). ",
+          "Bring their attention back to their bodies and breath.",
+          "Count until 5 and ask them to slowly open their eyes."
+        ],
+        "completion": "Invite 2 participants to who were able to experience hand warmth to share their experience with the group."
+      }
+    ]
+  },
+  { "title": "Day 2" },
+  { "title": "Day 3" },
+  { "title": "Day 4" },
+  { "title": "Day 5" },
+  { "title": "Day 6" },
+  { "title": "Day 7" }
+]

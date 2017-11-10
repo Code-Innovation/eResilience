@@ -1,0 +1,18 @@
+.Menu {
+  background-color: #ADDCE5;
+  height: 100%;
+  padding-top: 15px;
+  padding-bottom: 10px;
+}
+
+.Menu .blockButton {
+  display: block;
+  background-color: white;
+  color: black;
+  padding: 8px;
+  border-radius: 30px;
+  width: 40%;
+  margin: auto;
+  margin-bottom: 15px;
+  text-decoration: none;
+}
