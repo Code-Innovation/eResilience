@@ -13,7 +13,7 @@ class App extends Component {
         <div className='App'>
           <Route path='/' exact={true} component={Home} />
           <Route path='/menu' component={Menu} />
-          <Route path='/block/:block_id' component={Block} />
+          <Route path='/block/:block_id/:exercise_id?/:step_id?' component={Block} />
         </div>
       </Router>
 

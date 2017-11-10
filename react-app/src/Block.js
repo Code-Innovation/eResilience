@@ -5,26 +5,20 @@ import {findBlock} from './content/parser'
 import './Block.css'
 import './font-awesome.min.css'
 
-const Block = (props) => {
-  let block = findBlock(props.match.params.block_id)
-  let content = <div>
-    <ul>
-      {block.instructions.map((instruction, index) => <li key={index}>{instruction}</li>)}
-    </ul>
-    <div id='notes'>{block.notes}</div>
-    <Link className='button' to='/menu'>Continue</Link>
-  </div>
-  return renderBlock({
-    title: block.title,
-    next: '/menu',
-    prev: '/menu',
-    label: 'Instructions',
-    content
+const Block = ({match}) => {
+  const {params} = match
+  console.log(params)
+  let block = findBlock(params.block_id)
+  let blockContent = {}
+  if (!params.exercise_id) {
+    blockContent = blockInstructions(block)
+  } else if (!params.step_id) {
+    blockContent = exerciseObjective(params.exercise_id, block)
   }
-  )
+  return renderBlock(blockContent)
 }
 
-function renderBlock({title, next, prev, label, content}) {
+function renderBlock({title, next, prev, label, content, contentClass}) {
     return <div className='Block'>
       <div id='title'> {title} </div>
       <div id='nav'>
@@ -36,8 +30,38 @@ function renderBlock({title, next, prev, label, content}) {
           <FontAwesome name='caret-right' size='2x'/>
         </Link>
       </div>
-      <div id='content'> {content}</div>
+      <div id='content' className={contentClass}> {content}</div>
     </div>
+}
+
+function blockInstructions(block) {
+  let firstEngagementPath = `/block/${block.id}/${block.exercises[0].id}`
+  let content = <div>
+    <ul>
+      {block.instructions.map((instruction, index) => <li key={index}>{instruction}</li>)}
+    </ul>
+    <div id='notes'>{block.notes}</div>
+    <Link className='button' to={firstEngagementPath}>Continue</Link>
+  </div>
+  return {
+    title: block.title,
+    next: firstEngagementPath,
+    prev: '/menu',
+    label: 'Instructions',
+    content
+  }
+}
+
+function exerciseObjective(exercise_id, block) {
+  let exercise = block.exercises.find(e => e.id === exercise_id)
+  return {
+    title: exercise.title,
+    next: '/',
+    prev: `/block/${block.id}`,
+    label: 'Objective',
+    content: exercise.objective,
+    contentClass: 'highlight'
+  }
 }
 
 export default Block
