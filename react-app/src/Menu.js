@@ -6,8 +6,8 @@ import './Menu.css'
 const Menu = () => {
   return (
     <div className='Menu'>
-      {blocks().map((blockTitle, i) => (
-        <Link className='blockButton' key={i} to='/'>{blockTitle}</Link>
+      {blocks().map(block => (
+        <Link className='blockButton' key={block.id} to={`/block/${block.id}`}>{block.title}</Link>
       ))}
     <div>&nbsp;</div>
     </div>

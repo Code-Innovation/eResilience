@@ -1,8 +1,30 @@
 [
   { 
+    "id": "b1",
     "title": "Day 1",
+    "instructions": [
+      "Welcome to our program.",
+      "Today, we will try several different exercises.",
+      "I will guide you through each task as you try it.",
+      "It is very important that you follow my instructions carefully.",
+      "Don’t worry if you think you are not doing them perfectly; the most important thing is that you try your best.",
+      "If you feel any discomfort at during any of the tasks, you can choose to stop or skip.",
+      "We’ll try to complete all the exercises one after the other without interruption.",
+      "For any reason, if you need to stop, it is not a problem, raise your hand and the group will wait for you.",
+      "At any moment, if you are not feeling well, for example, if you are bothered by stress, sad memories, or unpleasant body sensations, stop if you think it is too much for you to handle.",
+      "These exercises are designed to help.",
+      "As your group leader, I am here to give you support.",
+      "Before we begin today, we’ll be sitting as a circle in this place and try to be without interruption for the next 90 minutes.",
+      "If visitors come by, they are welcome to watch if the group feels comfortable, but we ask that you don’t engage in conversations with them so that you can be focused on the tasks.",
+      "If you have a mobile phone, make sure you turn off so it is not a distraction during these exercises.",
+      "Is everybody ready?",
+      "Make your body comfortable where you are sitting.",
+      "Let’s get started."
+    ],
+    "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
     "exercises": [
       {
+        "id": "e1",
         "title": "Hand Warming",
         "objective": "The goal of this exercise is to reduce stress of your participants using a guided visualization technique where they use the power of their imagination",
         "steps": [
@@ -16,10 +38,23 @@
       }
     ]
   },
-  { "title": "Day 2" },
-  { "title": "Day 3" },
-  { "title": "Day 4" },
-  { "title": "Day 5" },
-  { "title": "Day 6" },
-  { "title": "Day 7" }
+  { 
+    "title": "Day 2",
+    "id": "b2"
+  },
+  { "title": "Day 3",
+    "id": "b3"
+  },
+  { "title": "Day 4",
+    "id": "b4"
+  },
+  { "title": "Day 5",
+    "id": "b5"
+  },
+  { "title": "Day 6",
+    "id": "b6"
+  },
+  { "title": "Day 7",
+    "id": "b7"
+  }
 ]

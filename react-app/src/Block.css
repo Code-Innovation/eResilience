@@ -1,0 +1,44 @@
+.Block {
+  width: 100%;
+}
+.Block #title {
+  padding: 15px;
+  font-size: 1.8em;
+  font-weight: bold;
+  background-color: #ADDCE5;
+}
+
+.Block #nav {
+  background-color: #DADEDD;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.Block #nav #label {
+  position: relative;
+  top: -5px;
+  line-height: 2em;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.Block #content {
+  padding: 10px;
+  text-align: left;
+  font-size: 2em;
+}
+
+.Block #content ul li {
+  margin-bottom: 5px;
+}
+.Block #notes {
+  font-style: italic;
+  margin-bottom: 20px;
+}
+.Block .button {
+  display: block;
+  margin: auto;
+  width: 150px;
+  text-align: center;
+  font-size: 1em;
+}
