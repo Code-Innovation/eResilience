@@ -1,8 +1,8 @@
-body, #root, .App {
+html, body, #root, .App, .Home, .Menu {
   height: 100%;
 }
 .App {
   margin: auto;
-  width: 360px;
+  width: 100%;
   text-align: center;
 }
