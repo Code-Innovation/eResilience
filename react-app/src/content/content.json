@@ -34,7 +34,31 @@
           "Bring their attention back to their bodies and breath.",
           "Count until 5 and ask them to slowly open their eyes."
         ],
-        "completion": "Invite 2 participants to who were able to experience hand warmth to share their experience with the group."
+        "completion": "Invite 2 participants who were able to experience hand warmth to share their experience with the group."
+      },
+      {
+        "id": "e2",
+        "title": "Resonant Breathing",
+        "objective": "The goal of this exercise is to help your participants regulate heart beating pace by breathing in and out in the pace that you set for them for a period of 5 minutes.",
+        "steps": [
+          "Instruct participants to sit comfortably. They can keep their eyes open or closed. They can choose to move their arms to the pace of the breath or rest them.",
+          "Follow the breath animation (or set a timer) for the following 5 minutes. (6’inhale/exhale breathing animation for 5’)."
+        ],
+        "completion": "Invite 2 participants that enjoyed the task to share their positive experience with the group."
+      },
+      {
+        "id": "e3",
+        "title": "Safe Place with Drums",
+        "objective": "Help participants feel safe through a guided visualization while tapping to the sound of drums (tapping helps stabilize the brain).",
+        "steps": [
+          "Invite a group volunteer to tap gently and slowly to a drum or object that can generate a pleasing sound.",
+          "Demonstrate the tapping on shoulders or legs, always alternating between body sides and making sure it is very gentle.",
+          "Ask participants to close their eyes, take a few deep breaths, and notice how their bodies feel by following the air travel inside their bodies.",
+          "When they are calm and relaxed, ask them to imagine a safe place. Allow them time to stay at that safe place, pay attention to details, and how good they feel there.",
+          "Now ask them to invite a special guest to their safe place, someone they can trust and confide in. Ask them to take their guest around this place and enjoy their company.",
+          "Bring their attention back to their bodies and breath.",
+          "Count until 5 and ask them to slowly open their eyes."
+        ]
       }
     ]
   },
