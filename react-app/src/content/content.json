@@ -22,7 +22,7 @@
         "Let’s get started."
       ],
       "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
-      "exercises": [ "e1", "e2", "e3", "e4", "e5", "e6", "e7", "e8", "e4", "e9", "e10"]
+      "exercises": [ "e1", "e2", "e3", "e4", "e5", "e6", "e7", "e8", "e4", "e9", "e10", "e11", "e12"]
     },
     { 
       "title": "Day 2",
@@ -160,20 +160,36 @@
         "Count until 5 and ask them to slowly open their eyes. "
       ]
     },
-    "id": {
-      "title": "",
-      "objective": "",
+    "e11": {
+      "title": "Jacobson",
+      "objective": "The goal of this exercise is to relax participants by conducting a full body scan",
       "steps": [
-        "",
-        ""
-      ]
+        "Guide participants to sit very comfortably on a chair or on the floor.",
+        "Guide participants to pay attention to breath.",
+        "Guide participants to tense hands, then release tension.",
+        "Guide participants to tense fingers, then release tension.",
+        "Guide participants to tense forearms, then release tension.",
+        "Guide participants to tense upper arms, then release tension.",
+        "Guide participants to tense shoulders, then release tension.",
+        "Guide participants to tense upper back, then release tension.",
+        "Guide participants to tense lower legs, then release tension.",
+        "Guide participants to tense abdomen, then release tension.",
+        "Guide participants to tense Lower Back, then release tension.",
+        "Guide participants to tense Chest Area, then release tension.",
+        "Guide participants to tense shoulders (again) then release tension",
+        "Guide participants to tense Neck, then release tension.",
+        "Guide participants to tense Jaw, then release tension.",
+        "Guide participants to tense Eyes, then release tension.",
+        "Guide participants to tense all body and release all tension. Ask them to focus on Sensations of relaxation."
+      ],
+      "completion":"Invite 2 participants that enjoyed the task to share their positive experience with the group."
     },
-    "id": {
-      "title": "",
-      "objective": "",
+    "e12": {
+      "title": "Altruism",
+      "objective": "Provide altruism assignment instructions for next session.",
       "steps": [
-        "",
-        ""
+        "Introduce participants to the concept of altruism: doing good for others without expecting anything in return. Give examples of altruistic behaviours (fetching water for someone, carry weight, cheer someone up, accompany someone sick to go to the doctor, donating something yours to someone who needs it most, etc).",
+        "Ask participants to consider doing an altruistic task between this session and the next one. Be careful with the tone of voice to not “order” them to do it. Emphasize they should only do it if they feel like doing it, it is a choice they made. Tell them it is ok if they don’t do it or if they choose not to (giving traumatised individuals options is empowering)."
       ]
     },
     "id": {
