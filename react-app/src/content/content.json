@@ -1,84 +1,86 @@
-[
-  { 
-    "id": "b1",
-    "title": "Day 1",
-    "instructions": [
-      "Welcome to our program.",
-      "Today, we will try several different exercises.",
-      "I will guide you through each task as you try it.",
-      "It is very important that you follow my instructions carefully.",
-      "Don’t worry if you think you are not doing them perfectly; the most important thing is that you try your best.",
-      "If you feel any discomfort at during any of the tasks, you can choose to stop or skip.",
-      "We’ll try to complete all the exercises one after the other without interruption.",
-      "For any reason, if you need to stop, it is not a problem, raise your hand and the group will wait for you.",
-      "At any moment, if you are not feeling well, for example, if you are bothered by stress, sad memories, or unpleasant body sensations, stop if you think it is too much for you to handle.",
-      "These exercises are designed to help.",
-      "As your group leader, I am here to give you support.",
-      "Before we begin today, we’ll be sitting as a circle in this place and try to be without interruption for the next 90 minutes.",
-      "If visitors come by, they are welcome to watch if the group feels comfortable, but we ask that you don’t engage in conversations with them so that you can be focused on the tasks.",
-      "If you have a mobile phone, make sure you turn off so it is not a distraction during these exercises.",
-      "Is everybody ready?",
-      "Make your body comfortable where you are sitting.",
-      "Let’s get started."
-    ],
-    "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
-    "exercises": [
-      {
-        "id": "e1",
-        "title": "Hand Warming",
-        "objective": "The goal of this exercise is to reduce stress of your participants using a guided visualization technique where they use the power of their imagination",
-        "steps": [
-          "Ask participants to close their eyes, take a few deep breaths, and notice how their bodies feel by following the air travel inside their bodies.",
-          "When they are calm and relaxed, ask them to pay attention to their hands. Where is it resting? Is it warm or cold?",
-          "Give examples to help them imagine their hands getting  warmer. (being under the sun, cooking, someone holding your hand, etc.). ",
-          "Bring their attention back to their bodies and breath.",
-          "Count until 5 and ask them to slowly open their eyes."
-        ],
-        "completion": "Invite 2 participants who were able to experience hand warmth to share their experience with the group."
-      },
-      {
-        "id": "e2",
-        "title": "Resonant Breathing",
-        "objective": "The goal of this exercise is to help your participants regulate heart beating pace by breathing in and out in the pace that you set for them for a period of 5 minutes.",
-        "steps": [
-          "Instruct participants to sit comfortably. They can keep their eyes open or closed. They can choose to move their arms to the pace of the breath or rest them.",
-          "Follow the breath animation (or set a timer) for the following 5 minutes. (6’inhale/exhale breathing animation for 5’)."
-        ],
-        "completion": "Invite 2 participants that enjoyed the task to share their positive experience with the group."
-      },
-      {
-        "id": "e3",
-        "title": "Safe Place with Drums",
-        "objective": "Help participants feel safe through a guided visualization while tapping to the sound of drums (tapping helps stabilize the brain).",
-        "steps": [
-          "Invite a group volunteer to tap gently and slowly to a drum or object that can generate a pleasing sound.",
-          "Demonstrate the tapping on shoulders or legs, always alternating between body sides and making sure it is very gentle.",
-          "Ask participants to close their eyes, take a few deep breaths, and notice how their bodies feel by following the air travel inside their bodies.",
-          "When they are calm and relaxed, ask them to imagine a safe place. Allow them time to stay at that safe place, pay attention to details, and how good they feel there.",
-          "Now ask them to invite a special guest to their safe place, someone they can trust and confide in. Ask them to take their guest around this place and enjoy their company.",
-          "Bring their attention back to their bodies and breath.",
-          "Count until 5 and ask them to slowly open their eyes."
-        ]
-      }
-    ]
-  },
-  { 
-    "title": "Day 2",
-    "id": "b2"
-  },
-  { "title": "Day 3",
-    "id": "b3"
-  },
-  { "title": "Day 4",
-    "id": "b4"
-  },
-  { "title": "Day 5",
-    "id": "b5"
-  },
-  { "title": "Day 6",
-    "id": "b6"
-  },
-  { "title": "Day 7",
-    "id": "b7"
+{ "days": [
+    { 
+      "id": "b1",
+      "title": "Day 1",
+      "instructions": [
+        "Welcome to our program.",
+        "Today, we will try several different exercises.",
+        "I will guide you through each task as you try it.",
+        "It is very important that you follow my instructions carefully.",
+        "Don’t worry if you think you are not doing them perfectly; the most important thing is that you try your best.",
+        "If you feel any discomfort at during any of the tasks, you can choose to stop or skip.",
+        "We’ll try to complete all the exercises one after the other without interruption.",
+        "For any reason, if you need to stop, it is not a problem, raise your hand and the group will wait for you.",
+        "At any moment, if you are not feeling well, for example, if you are bothered by stress, sad memories, or unpleasant body sensations, stop if you think it is too much for you to handle.",
+        "These exercises are designed to help.",
+        "As your group leader, I am here to give you support.",
+        "Before we begin today, we’ll be sitting as a circle in this place and try to be without interruption for the next 90 minutes.",
+        "If visitors come by, they are welcome to watch if the group feels comfortable, but we ask that you don’t engage in conversations with them so that you can be focused on the tasks.",
+        "If you have a mobile phone, make sure you turn off so it is not a distraction during these exercises.",
+        "Is everybody ready?",
+        "Make your body comfortable where you are sitting.",
+        "Let’s get started."
+      ],
+      "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
+      "exercises": [ "e1", "e2", "e3"]
+    },
+    { 
+      "title": "Day 2",
+      "id": "b2"
+    },
+    { "title": "Day 3",
+      "id": "b3"
+    },
+    { "title": "Day 4",
+      "id": "b4"
+    },
+    { "title": "Day 5",
+      "id": "b5"
+    },
+    { "title": "Day 6",
+      "id": "b6"
+    },
+    { "title": "Day 7",
+      "id": "b7"
+    }
+  ],
+  "exercises": {
+    "e1": {
+      "id": "e1",
+      "title": "Hand Warming",
+      "objective": "The goal of this exercise is to reduce stress of your participants using a guided visualization technique where they use the power of their imagination",
+      "steps": [
+        "Ask participants to close their eyes, take a few deep breaths, and notice how their bodies feel by following the air travel inside their bodies.",
+        "When they are calm and relaxed, ask them to pay attention to their hands. Where is it resting? Is it warm or cold?",
+        "Give examples to help them imagine their hands getting  warmer. (being under the sun, cooking, someone holding your hand, etc.). ",
+        "Bring their attention back to their bodies and breath.",
+        "Count until 5 and ask them to slowly open their eyes."
+      ],
+      "completion": "Invite 2 participants who were able to experience hand warmth to share their experience with the group."
+    },
+    "e2": {
+      "id": "e2",
+      "title": "Resonant Breathing",
+      "objective": "The goal of this exercise is to help your participants regulate heart beating pace by breathing in and out in the pace that you set for them for a period of 5 minutes.",
+      "steps": [
+        "Instruct participants to sit comfortably. They can keep their eyes open or closed. They can choose to move their arms to the pace of the breath or rest them.",
+        "Follow the breath animation (or set a timer) for the following 5 minutes. (6’inhale/exhale breathing animation for 5’)."
+      ],
+      "completion": "Invite 2 participants that enjoyed the task to share their positive experience with the group."
+    },
+    "e3": {
+      "id": "e3",
+      "title": "Safe Place with Drums",
+      "objective": "Help participants feel safe through a guided visualization while tapping to the sound of drums (tapping helps stabilize the brain).",
+      "steps": [
+        "Invite a group volunteer to tap gently and slowly to a drum or object that can generate a pleasing sound.",
+        "Demonstrate the tapping on shoulders or legs, always alternating between body sides and making sure it is very gentle.",
+        "Ask participants to close their eyes, take a few deep breaths, and notice how their bodies feel by following the air travel inside their bodies.",
+        "When they are calm and relaxed, ask them to imagine a safe place. Allow them time to stay at that safe place, pay attention to details, and how good they feel there.",
+        "Now ask them to invite a special guest to their safe place, someone they can trust and confide in. Ask them to take their guest around this place and enjoy their company.",
+        "Bring their attention back to their bodies and breath.",
+        "Count until 5 and ask them to slowly open their eyes."
+      ]
+    }
   }
-]
+}
