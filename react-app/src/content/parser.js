@@ -8,9 +8,9 @@ export function findBlock(blockId) {
   let block = content.days.find((block) => block.id === blockId)
   block = {...block}
   block.exercises = block.exercises
-    .map(id => {
+    .map((id, idx) => {
       let exercise = content.exercises[id]
-      return {id, ...exercise}
+      return {id: 'e' + (Number(idx)+1), ...exercise}
     })
 
   return block

@@ -16,4 +16,8 @@ describe('findBlock', () => {
     let block = findBlock('b1')
     expect(block.exercises[0].id).toBe('e1')
   })
+  it('overwrites the id of each exercise', () => {
+    let block = findBlock('b1')
+    expect(block.exercises[8].id).toBe('e9')
+  })
 })
