@@ -14,6 +14,8 @@ const Block = ({match}) => {
 function blockContentForParams(params) {
   let block = findBlock(params.block_id)
   if (!params.exercise_id) {
+    return blockOverview(block)
+  } else if (params.exercise_id === 'instructions') {
     return blockInstructions(block)
   } else if (!params.step_id) {
     return exerciseObjective(params.exercise_id, block)
@@ -49,6 +51,24 @@ function renderBlock({title, next, prev, label, content, contentClass}) {
     </div>
 }
 
+function blockOverview(block) {
+  let blockInstructionsPath = `/block/${block.id}/instructions`
+  let content = <div>
+      Today's exercises:
+      <ul>
+        {block.exercises.map((e, i) => <li key={i}>{e.title}</li>)}
+      </ul>
+    <Link className='button' to={blockInstructionsPath}>Continue</Link>
+    </div>
+  return {
+    title: block.title,
+    next: blockInstructionsPath,
+    prev: '/menu',
+    label: 'Overview',
+    content
+  }
+}
+
 function blockInstructions(block) {
   let firstEngagementPath = `/block/${block.id}/${block.exercises[0].id}`
   let content = <div>
@@ -61,7 +81,7 @@ function blockInstructions(block) {
   return {
     title: block.title,
     next: firstEngagementPath,
-    prev: '/menu',
+    prev: `/block/${block.id}`,
     label: 'Instructions',
     content
   }
@@ -75,11 +95,17 @@ function exerciseObjective(exercise_id, block) {
   return {
     title: exercise.title,
     next: `/block/${block.id}/${exercise.id}/0`,
-    prev: `/block/${block.id}`,
+    prev: previousExercisePath(block, exercise),
     label: 'Objective',
     content: exercise.objective,
     contentClass: 'highlight'
   }
+}
+
+function previousExercisePath(block, exercise) {
+  let exerciseNum = Number(exercise.id.match(/e(\d*)/)[1])
+  let previousExerciseId = exerciseNum > 1 ? 'e' + (exerciseNum - 1) : ''
+  return `/block/${block.id}/${previousExerciseId}`
 }
 
 function contentForStep(step_id, exercise_id, block) {
@@ -87,9 +113,10 @@ function contentForStep(step_id, exercise_id, block) {
   let exercise = block.exercises.find(e => e.id === exercise_id)
 
   let blockPath = `/block/${block.id}`
-  let exercisePath = `${blockPath}/${exercise_id}`
+  let exercisePath = exercise.objective ? `${blockPath}/${exercise_id}` : previousExercisePath(block, exercise)
 
   let prev = step_id === 0 ? exercisePath : `${exercisePath}/${step_id-1}`
+
 
   let next
   let isLastStep = step_id === exercise.steps.length-1
@@ -131,7 +158,7 @@ function finishedExercise(exercise_id, block) {
   let blockPath = `/block/${block.id}`
   if (index === exerciseIds.length - 1) {
     next = '/menu'
-    content = <div>
+    content = <div className='finishedExercise'>
       <div>
         You have finished all the exercises for {block.title}.
       </div>
@@ -144,7 +171,7 @@ function finishedExercise(exercise_id, block) {
         `There are ${remainingExercises} exercises remaining for today` :
         "There is one more exercise to do today."
 
-    content = <div>
+    content = <div className='finishedExercise'>
       <div> {msg} </div>
       <Link className='button' to={next}>Next</Link>
     </div>

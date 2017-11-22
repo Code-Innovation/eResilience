@@ -48,3 +48,7 @@
   text-align: center;
   font-size: 1em;
 }
+
+.Block .finishedExercise .button {
+  margin-top: 10px;
+}

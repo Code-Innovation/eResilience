@@ -83,7 +83,7 @@
         "Let’s get started."
       ],
       "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
-      "exercises": ["e1", "e2", "e3", "e4", "xx", "e6", "e7", "e8", "e4", "xx", "e10", "e11", "e12", "e12b", "e4"]
+      "exercises": ["e1", "e2", "e3", "e4", "e21", "e6", "e7", "e8", "e4", "e22", "e10", "e11", "e12", "e12b", "e4"]
     },
     { "title": "Day 7",
       "id": "b7",
@@ -95,7 +95,7 @@
         "Let’s get started."
       ],
       "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
-      "exercises": ["e1", "e2", "e3", "e4", "xx", "e6", "e7", "e8", "e4", "xx", "e10", "e11", "e12", "e12b", "e4"]
+      "exercises": ["e1", "e2", "e3", "e4", "e23", "e6", "e7", "e8", "e4", "e24", "e10", "e11", "e12", "e12b", "e4"]
     }
   ],
   "exercises": {
@@ -356,20 +356,25 @@
         "Group participation<br/>Invite participants to name at least 3 resources that are internal – what within themselves makes them feel stronger? (Don’t mention the responses you want to hear unless no one mentions: Internal resources can be wisdom, intuition, spirituality, prayer, feeling joy, contentment, desire to help others, etc)."
       ]
     },
-    "id": {
-      "title": "",
-      "objective": "",
+    "e23": {
+      "title": "Kind Community",
+      "objective": "Promote a sense of safety and wellbeing while acknowledging the presence of community",
       "steps": [
-        "",
-        ""
+        "Ask participants to close their eyes, take a few deep breaths, and notice how their bodies feel by following the air travel inside their bodies.",
+        "When they are calm and relaxed, while keeping their eyes closed, ask them to acknowledge and sense the presence of the participants in this group, appreciating a sense of belonging and togetherness.",
+        "Guide them to notice in their bodies how good it feels when feeling that they belong in this group and community.",
+        "Bring their attention back to their bodies and breath.",
+        "Count until 5 and ask them to slowly open their eyes."
       ]
     },
-    "id": {
-      "title": "",
-      "objective": "",
+    "e24": {
+      "title": "10 Great Things",
+      "objective": "The goal of this exercise is to increase positive feelings and inspire mindful appreciation and focus on good events. Do not make religious associations (blessings), it is only ok if the participant make it.",
       "steps": [
-        "",
-        ""
+        "Ask participants to take a moment to think of 5 great things that happened to them and changed their lives for better.  (Something someone did, a gift received, a person met, a trip, job, school, spiritual experience, a book read, a child being born, or any other thing that makes them feel good and happy to be alive).",
+        "Group participation<br/>Invite members to choose only 1 of the 5 great things to share with the group.",
+        "Ask participants to take a moment to think of 5 great things that happen more often, but sometimes we don’t noticed for being small everyday things.  (It could be the smell of flowers, the laughter of children, eating their favourite food, a sunny day, anything else that makes them smile).",
+        "Group participation<br/>Invite members to choose only 1 of the 5 great everyday  things to share with the group."
       ]
     }
   }
