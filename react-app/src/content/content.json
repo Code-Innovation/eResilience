@@ -22,7 +22,7 @@
         "Let’s get started."
       ],
       "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
-      "exercises": [ "e1", "e2", "e3", "e4"]
+      "exercises": [ "e1", "e2", "e3", "e4", "e5", "e6", "e7", "e8", "e4", "e9", "e10"]
     },
     { 
       "title": "Day 2",
@@ -51,7 +51,7 @@
       "steps": [
         "Ask participants to close their eyes, take a few deep breaths, and notice how their bodies feel by following the air travel inside their bodies.",
         "When they are calm and relaxed, ask them to pay attention to their hands. Where is it resting? Is it warm or cold?",
-        "Give examples to help them imagine their hands getting  warmer. (being under the sun, cooking, someone holding your hand, etc.). ",
+        "Give examples to help them imagine their hands getting warmer. (being under the sun, cooking, someone holding your hand, etc.). ",
         "Bring their attention back to their bodies and breath.",
         "Count until 5 and ask them to slowly open their eyes."
       ],
@@ -83,6 +83,137 @@
       "title": "Stretch",
       "steps": [
         "Ask participants to stand up for a very quick stretch. Demonstrate raising hands up in the air, shake arms and legs, move neck and hips."
+      ]
+    },
+    "e5": {
+      "title": "Safe Person",
+      "objective": "Help participants feel connected with a nurturing and caring figure, restore positive thinking about relationships",
+      "steps": [
+        "Ask participants to close their eyes, take a few deep breaths, and notice how their bodies feel by following the air travel inside their bodies.",
+        "When they are calm and relaxed, still with their eyes closed ask participants to think of a “safe person” – someone they feel a special trusting connection with, it could be a friend, a parent, grandparent, husband, child, family member.",
+        "Ask participants to imagine this person with them right now.",
+        "Ask them to notice how this person makes them feel.",
+        "Ask them to pay attention to features in this person that makes them comfortable, the smile, voice, touch and stay with that good feeling.",
+        "Ask them to imagine sharing a special moment with them, going back to childhood, a moment that happened or a good one that they can create right now.",
+        "Ask them to pay attention back to their bodies and how good it feels in this person’s presence.",
+        "Bring their attention back to their breath.",
+        "Count until 5 and ask them to slowly open their eyes."
+      ],
+      "completion": "Invite 1 participant that enjoyed the task to share their positive experience with the group."
+    },
+    "e6": {
+      "title": "Tap with the Drum During (+) Thought",
+      "objective": "Help participants regulate while tapping to the sound of drums (tapping helps stabilize the brain)",
+      "steps": [
+        "Ask participants to think about a positive thought about themselves, someone else, or the world.",
+        "Ask those willing to share their positive thought with the group (keep it brief, go around but do not encourage long conversation). Never force someone to speak if they don’t wish to.",
+        "Invite a group volunteer to tap gently and slowly to a drum or object that can generate a pleasing sound.",
+        "Demonstrate the tapping on shoulders or legs, always alternating between body sides and making sure it is very gentle.",
+        "Ask participants to close their eyes, take a few deep breaths, and notice how their bodies feel by following the air travel inside their bodies.",
+        "When they are calm and relaxed, ask them to focus on the positive thought.",
+        "Bring their attention back to their bodies and breath.",
+        "Count until 5 and ask them to slowly open their eyes."
+      ],
+      "completion": "Invite 2 participants that enjoyed the task to share their positive experience with the group."
+    },
+    "e7": {
+      "title": "Breath Work (Bubble)",
+      "objective": "The goal of this exercise is to help your participants feel safe by using imagination and breathing techniques. You will help them imagine they are building a bubble of protection around them every time they breathe in and breathe out.",
+      "steps": [
+        "Ask participants to close their eyes, take a few deep breaths, and notice how their bodies feel by following the air travel inside their bodies.",
+        "Still with their eyes closed, ask participants to imagine a transparent bubble of protection growing around them as they breathe out as they sit inside of it, like blowing a balloon.",
+        "Continue guiding them to slowly take a deep breath in, and blow the bubble of protection for 5 breathing rounds.",
+        "Remind participants while they still have their eyes closed that this is a place where they feel protected, and nobody can go inside without invitation.",
+        "Ask whoever is ready to leave the bubble, to slowly open their eyes."
+      ]
+    },
+    "e8": {
+      "title": "Breath Work (VU Sound)",
+      "objective": "The goal of this exercise is to promote a sense of safety in participants by reproducing a vocal sound.",
+      "steps": [
+        "Explain they will be making a sound when they breathe out.",
+        "Demonstrate the “VU” sound to participants.",
+        "Now ask them to do it along with you.",
+        "Repeat 10 times. You can make it a game to see who can sustain the VU sound longer."
+      ],
+      "completion":"Invite 2 participants that enjoyed the task to share their positive experience with the group."  
+    },
+    "e9": {
+      "title": "One Object",
+      "objective": "The goal of this exercise is to help participants train their minds to focus in the present moment by using a simple mindfulness skill (paying attention to one object in detail)",
+      "steps": [
+        "Instruct participants to choose an object in their surrounding and bring back to the circle. It can be anything they can hold. For example, a piece of clothing, a rock, a leaf, piece of wood, a computer, their personal phone, etc. Assist participants that show difficulty choosing an object.",
+        "Ask participants to notice the weight of their object by passing it very gently from one hand to another.",
+        "Ask participants to notice the texture of their object. Is it smooth or rough? Does it roll on a surface?",
+        "Ask participants to notice the color of their object. Do they like the tone(s)? Is there a pattern printed on it? How about words?",
+        "Ask participants to notice if the object makes a sound. ",
+        "Ask participants to take a final close look, and try to find something they still did not notice about this object."
+      ]
+    },
+    "e10": {
+      "title": "Guest House",
+      "objective": "This exercise is designed to help participants improve their skills of paying attention to the present moment (mindfulness) and feeling internal safety",
+      "steps": [
+        "Ask participants to close their eyes, take a few deep breaths, and notice how their bodies feel by following the air travel inside their bodies.",
+        "When they are calm and relaxed, in a calm voice, read the “Guest House” poem to your group.<br/><br/><em>This being human is a guest house.<br/>Every morning a new arrival.<br/>A joy, a depression, a meanness,<br/><br/>Some momentary awareness come<br/>As an unexpected visitor. <br/>Welcome and entertain them all! <br/><br/>Even if they’re a crowd of sorrows,<br/>who violently sweep your house<br/>empty of its furniture,<br/>still, treat each guest honorably.<br/><br/>He may be clearing you<br/>Out for some new delight.<br/><br/>The dark thought, the shame, the malice,<br/>meet them at the door laughing,<br/>and invite them in.<br/><br/>Be grateful for whoever comes,<br/> because each has been sent<br/>as a guide from beyond.<br/></em>",
+        "Bring their attention back to their bodies and breath.",
+        "Count until 5 and ask them to slowly open their eyes. "
+      ]
+    },
+    "id": {
+      "title": "",
+      "objective": "",
+      "steps": [
+        "",
+        ""
+      ]
+    },
+    "id": {
+      "title": "",
+      "objective": "",
+      "steps": [
+        "",
+        ""
+      ]
+    },
+    "id": {
+      "title": "",
+      "objective": "",
+      "steps": [
+        "",
+        ""
+      ]
+    },
+    "id": {
+      "title": "",
+      "objective": "",
+      "steps": [
+        "",
+        ""
+      ]
+    },
+    "id": {
+      "title": "",
+      "objective": "",
+      "steps": [
+        "",
+        ""
+      ]
+    },
+    "id": {
+      "title": "",
+      "objective": "",
+      "steps": [
+        "",
+        ""
+      ]
+    },
+    "id": {
+      "title": "",
+      "objective": "",
+      "steps": [
+        "",
+        ""
       ]
     }
   }

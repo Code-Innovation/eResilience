@@ -27,6 +27,13 @@ function blockContentForParams(params) {
 }
 
 function renderBlock({title, next, prev, label, content, contentClass}) {
+    let contentDiv
+    if (typeof(content) === 'string') {
+      contentDiv = <div id='content' className={contentClass} dangerouslySetInnerHTML={{ __html: content}}></div>
+    } else {
+      contentDiv = <div id='content' className={contentClass}>{content}</div>
+    }
+
     return <div className='Block'>
       <div id='title'> {title} </div>
       <div id='nav'>
@@ -38,7 +45,7 @@ function renderBlock({title, next, prev, label, content, contentClass}) {
           <FontAwesome name='caret-right' size='2x'/>
         </Link>
       </div>
-      <div id='content' className={contentClass}> {content}</div>
+      {contentDiv}
     </div>
 }
 
