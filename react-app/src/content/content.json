@@ -47,7 +47,7 @@
         "Let’s get started."
       ],
       "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
-      "exercises": ["e1", "e2", "e3", "e4"]
+      "exercises": ["e1", "e2", "e3", "e4", "e15", "e6", "e7", "e8", "e4", "e16", "e10", "e11", "e12", "e12b", "e4"]
     },
     { "title": "Day 4",
       "id": "b4",
@@ -59,7 +59,7 @@
         "Let’s get started."
       ],
       "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
-      "exercises": ["e1", "e2", "e3", "e4"]
+      "exercises": ["e1", "e2", "e3", "e4", "e17", "e6", "e7", "e8", "e4", "e18", "e10", "e11", "e12", "e12b", "e4"]
     },
     { "title": "Day 5",
       "id": "b5",
@@ -71,7 +71,7 @@
         "Let’s get started."
       ],
       "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
-      "exercises": ["e1", "e2", "e3", "e4"]
+      "exercises": ["e1", "e2", "e3", "e4", "xx", "e6", "e7", "e8", "e4", "xx", "e10", "e11", "e12", "e12b", "e4"]
     },
     { "title": "Day 6",
       "id": "b6",
@@ -83,7 +83,7 @@
         "Let’s get started."
       ],
       "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
-      "exercises": ["e1", "e2", "e3", "e4"]
+      "exercises": ["e1", "e2", "e3", "e4", "xx", "e6", "e7", "e8", "e4", "xx", "e10", "e11", "e12", "e12b", "e4"]
     },
     { "title": "Day 7",
       "id": "b7",
@@ -95,7 +95,7 @@
         "Let’s get started."
       ],
       "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
-      "exercises": ["e1", "e2", "e3", "e4"]
+      "exercises": ["e1", "e2", "e3", "e4", "xx", "e6", "e7", "e8", "e4", "xx", "e10", "e11", "e12", "e12b", "e4"]
     }
   ],
   "exercises": {
@@ -276,6 +276,73 @@
         "Ask your group to look around and together in loud voice identify 3 things they can HEAR in this surrounding.",
         "Ask your group to look around and together in loud voice identify 2 things they can SMELL in this surrounding.",
         "Ask your group to look around and together in loud voice identify 1 thing they can TASTE in this surrounding."
+      ]
+    },
+    "e15": {
+      "title": "My People",
+      "objective": "",
+      "steps": [
+        "Ask participants to think of 3 people in their lives they can rely on in good and bad times. If they cannot think of 3 persons it can be 2 or 1. If they cannot think of anyone, ask them to imagine what someone they can trust are like.",
+        "Ask them to think of this person(s) qualities that make them feel good and protected.",
+        "Introduce the thought that it is ok to trust and rely people for different situations in life. Some we trust with personal thoughts and feelings, others we rely on to feel good, others to enjoy social activities. All relationships are important for different reasons.",
+        "Group participation<br/>Ask one person who feel comfortable to share who they rely on to talk about their emotions, failures and fears, someone they can keep secrets with and not judge them when they do wrong.",
+        "Group participation<br/>Ask one person who feel comfortable to share who they rely on to make them very joyful and brings positive feelings whenever they are in their presence.",
+        "Group participation<br/>Ask one person who feel comfortable to share who they rely on to go out and engage in social activities, but not necessarily share deep emotional conversations with."
+      ]
+    },
+    "e16": {
+      "title": "Grounding",
+      "objective": "The goal of this exercise is to assist participants to improve awareness of their bodies and feel good in it.",
+      "steps": [
+        "Ask participants to find a comfortable position and close their eyes. When they are ready, ask them to take a deep breath and stretch both arms in the air.",
+        "Still with eyes closed, ask participants to bring attention to FEET and TOES, and notice how it feels in contact with the ground.",
+        "Ask participants to bring attention to LEFT AND RIGHT LEGS. Ask them to notice if the legs feel secure or shaking, and visualise the force of gravity keeping them grounded.",
+        "Ask participants to bring attention to STOMACH area and feel a connection between stomach and feet on the ground.",
+        "Ask participants to feel their full bodies connected, and notice the weight of their bodies where they are sitting, how heavy does it feel?",
+        "Ask participants to take a deep slow breath and slowly open their eyes."
+      ]
+    },
+    "e17": {
+      "title": "The Nurturer",
+      "objective": "Enhance self-esteem and sense of connectedness and belonging by helping participants identify people in their lives who trust and rely on them as a support system",
+      "steps": [
+        "Remind participants that in the last session, they were asked to identify people they rely on for emotional intimacy, joy, and social activities.",
+        "Tell participants today we will do the reverse: think of 3 people that counts on them to play those roles.",
+        "In a moment of silence, ask participants to think about people who rely on them for support. If they cannot think of anyone, it is ok."
+      ],
+      "completion": "Invite two participants that feel comfortable to share how important they are for other people."
+    },
+    "e18": {
+      "title": "Self Reflection",
+      "objective": "The goal of this exercise is to improve mindful self-awareness to enhance self-esteem",
+      "steps": [
+        "Ask participants to think about 3 positive facts about themselves. It can be a compliment they received, a skill they are good at, an achievement, personality, how they handled a difficult situation. For those who cannot think of anything positive, remind them that their choice to come to this group shows is a powerful self-care initiative.",
+        "Group participation<br/>Invite anyone willing to share their positive facts about themselves.",
+        "Group participation<br/>Invite group members to share a positive quality someone else in the group."
+      ]
+    },
+    "id": {
+      "title": "",
+      "objective": "",
+      "steps": [
+        "",
+        ""
+      ]
+    },
+    "id": {
+      "title": "",
+      "objective": "",
+      "steps": [
+        "",
+        ""
+      ]
+    },
+    "id": {
+      "title": "",
+      "objective": "",
+      "steps": [
+        "",
+        ""
       ]
     },
     "id": {
