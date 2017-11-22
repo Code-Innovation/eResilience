@@ -71,7 +71,7 @@
         "Let’s get started."
       ],
       "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
-      "exercises": ["e1", "e2", "e3", "e4", "xx", "e6", "e7", "e8", "e4", "xx", "e10", "e11", "e12", "e12b", "e4"]
+      "exercises": ["e1", "e2", "e3", "e4", "e19", "e6", "e7", "e8", "e4", "e20", "e10", "e11", "e12", "e12b", "e4"]
     },
     { "title": "Day 6",
       "id": "b6",
@@ -321,36 +321,39 @@
         "Group participation<br/>Invite group members to share a positive quality someone else in the group."
       ]
     },
-    "id": {
-      "title": "",
-      "objective": "",
+    "e19": {
+      "title": "Purpose",
+      "objective": "Increase resilience in participants by helping them identify purposeful roles in society, self-worth, community building, future orientation, and personal abilities",
       "steps": [
-        "",
-        ""
+        "Explain to participants the importance for our wellbeing to have a purpose in life, and that it is common to lose purpose when life becomes difficult<br/><br/><em>Give examples: raising children, leading a community, belonging to one, protecting loved ones, being a healer or doctor, teacher, dancer, musician, cook, farmer, politician, advocate for important causes, etc.</em>",
+        "In a moment of silence, ask participants to think of a purpose in life they have now, or one they could embrace if they do not have one at the moment.",
+        "Ask participants to remain and silence and think of how their purpose can have a positive impact in the life of those around them."
+      ],
+      "completion": "Invite two participants that feel comfortable to share their purpose in life and how it can impact others positively."
+    },
+    "e20": {
+      "title": "Meaning Making",
+      "objective": "The goal of this exercise is to help participants become aware of resources to cope with negative emotions and stress",
+      "steps": [
+        "Talk to participants about the importance of exercising the ability of attributing a good meaning to bad experiences to overcome difficult times. Give examples of hardships and how meaning making assisted in the process of recovery.",
+        "Group participation<br/>Ask if anyone would like to share an example of a positive meaning attributed to a difficult experience and how it helped them overcome. Gently change topics if participant focuses on talking about the bad experience. Focus on the positive meaning making only to avoid triggers."
       ]
     },
-    "id": {
-      "title": "",
-      "objective": "",
+    "e21": {
+      "title": "Team Gesture",
+      "objective": "To help participants increase concern for others, inspire good behaviour to create/restore social connections. Engage brain areas related to planning and decision making.",
       "steps": [
-        "",
-        ""
+        "Ask everyone in the group to think of a kind gesture they could do for their community, if they were given all resources needed. Tell them it is just an imagination exercise and they do not have to execute the plan in real life, so they can suggest anything even if they are unable to do it.",
+        "Group participation<br/>Ask someone who feels comfortable to share their idea their idea with the group.",
+        "Group participation<br/>Now, encourage group discussion and ask them to create a strategy to implement the idea together. Who would be responsible for which task?! What tools and roles are needed?! How can each person help to make the plan succeed and benefit all community?"
       ]
     },
-    "id": {
-      "title": "",
+    "e22": {
+      "title": "Resources",
       "objective": "",
-      "steps": [
-        "",
-        ""
-      ]
-    },
-    "id": {
-      "title": "",
-      "objective": "",
-      "steps": [
-        "",
-        ""
+      "steps": [ "Ask participants to think of resources you have in your life that gives you strength in difficult times. What made them feel better when last time they were sad or depressed? Give them time to think about it.",
+        "Group participation<br/>Invite participants to name at least 3 resources that are external (Don’t mention the responses you want to hear unless no one mentions: External resources can be family, friends, hobbies, TV, entertainment, music, work, etc).",
+        "Group participation<br/>Invite participants to name at least 3 resources that are internal – what within themselves makes them feel stronger? (Don’t mention the responses you want to hear unless no one mentions: Internal resources can be wisdom, intuition, spirituality, prayer, feeling joy, contentment, desire to help others, etc)."
       ]
     },
     "id": {
