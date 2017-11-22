@@ -36,6 +36,8 @@ function renderBlock({title, next, prev, label, content, contentClass}) {
       contentDiv = <div id='content' className={contentClass}>{content}</div>
     }
 
+    window.scrollTo(0, 0)
+
     return <div className='Block'>
       <div id='title'> {title} </div>
       <div id='nav'>
