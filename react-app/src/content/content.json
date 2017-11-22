@@ -22,7 +22,7 @@
         "Let’s get started."
       ],
       "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
-      "exercises": [ "e1", "e2", "e3"]
+      "exercises": [ "e1", "e2", "e3", "e4"]
     },
     { 
       "title": "Day 2",
@@ -46,7 +46,6 @@
   ],
   "exercises": {
     "e1": {
-      "id": "e1",
       "title": "Hand Warming",
       "objective": "The goal of this exercise is to reduce stress of your participants using a guided visualization technique where they use the power of their imagination",
       "steps": [
@@ -59,7 +58,6 @@
       "completion": "Invite 2 participants who were able to experience hand warmth to share their experience with the group."
     },
     "e2": {
-      "id": "e2",
       "title": "Resonant Breathing",
       "objective": "The goal of this exercise is to help your participants regulate heart beating pace by breathing in and out in the pace that you set for them for a period of 5 minutes.",
       "steps": [
@@ -69,7 +67,6 @@
       "completion": "Invite 2 participants that enjoyed the task to share their positive experience with the group."
     },
     "e3": {
-      "id": "e3",
       "title": "Safe Place with Drums",
       "objective": "Help participants feel safe through a guided visualization while tapping to the sound of drums (tapping helps stabilize the brain).",
       "steps": [
@@ -80,6 +77,12 @@
         "Now ask them to invite a special guest to their safe place, someone they can trust and confide in. Ask them to take their guest around this place and enjoy their company.",
         "Bring their attention back to their bodies and breath.",
         "Count until 5 and ask them to slowly open their eyes."
+      ]
+    },
+    "e4": {
+      "title": "Stretch",
+      "steps": [
+        "Ask participants to stand up for a very quick stretch. Demonstrate raising hands up in the air, shake arms and legs, move neck and hips."
       ]
     }
   }

@@ -62,6 +62,9 @@ function blockInstructions(block) {
 
 function exerciseObjective(exercise_id, block) {
   let exercise = block.exercises.find(e => e.id === exercise_id)
+  if (!exercise.objective) {
+    return contentForStep(0, exercise_id, block)
+  }
   return {
     title: exercise.title,
     next: `/block/${block.id}/${exercise.id}/0`,
