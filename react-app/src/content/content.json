@@ -26,22 +26,76 @@
     },
     { 
       "title": "Day 2",
-      "id": "b2"
+      "id": "b2",
+      "instructions": [
+        "Welcome back, I hope you enjoyed our last session.",
+        "Today, we will repeat many of the exercises you already learned, and we will also introduce new ones.",
+        "Remember to turn your phones off, and get comfortable where you are sitting.",
+        "Is everybody ready?",
+        "Let’s get started."
+      ],
+      "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
+      "exercises": ["e1", "e2", "e3", "e4", "e13", "e6", "e7", "e8", "e4", "e14", "e10", "e11", "e12", "e12b", "e4"]
     },
     { "title": "Day 3",
-      "id": "b3"
+      "id": "b3",
+      "instructions": [
+        "Welcome back, I hope you enjoyed our last session.",
+        "Today, we will repeat many of the exercises you already learned, and we will also introduce new ones.",
+        "Remember to turn your phones off, and get comfortable where you are sitting.",
+        "Is everybody ready?",
+        "Let’s get started."
+      ],
+      "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
+      "exercises": ["e1", "e2", "e3", "e4"]
     },
     { "title": "Day 4",
-      "id": "b4"
+      "id": "b4",
+      "instructions": [
+        "Welcome back, I hope you enjoyed our last session.",
+        "Today, we will repeat many of the exercises you already learned, and we will also introduce new ones.",
+        "Remember to turn your phones off, and get comfortable where you are sitting.",
+        "Is everybody ready?",
+        "Let’s get started."
+      ],
+      "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
+      "exercises": ["e1", "e2", "e3", "e4"]
     },
     { "title": "Day 5",
-      "id": "b5"
+      "id": "b5",
+      "instructions": [
+        "Welcome back, I hope you enjoyed our last session.",
+        "Today, we will repeat many of the exercises you already learned, and we will also introduce new ones.",
+        "Remember to turn your phones off, and get comfortable where you are sitting.",
+        "Is everybody ready?",
+        "Let’s get started."
+      ],
+      "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
+      "exercises": ["e1", "e2", "e3", "e4"]
     },
     { "title": "Day 6",
-      "id": "b6"
+      "id": "b6",
+      "instructions": [
+        "Welcome back, I hope you enjoyed our last session.",
+        "Today, we will repeat many of the exercises you already learned, and we will also introduce new ones.",
+        "Remember to turn your phones off, and get comfortable where you are sitting.",
+        "Is everybody ready?",
+        "Let’s get started."
+      ],
+      "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
+      "exercises": ["e1", "e2", "e3", "e4"]
     },
     { "title": "Day 7",
-      "id": "b7"
+      "id": "b7",
+      "instructions": [
+        "Welcome back, I hope you enjoyed our last session.",
+        "Today, we will repeat many of the exercises you already learned, and we will also introduce new ones.",
+        "Remember to turn your phones off, and get comfortable where you are sitting.",
+        "Is everybody ready?",
+        "Let’s get started."
+      ],
+      "notes": "Group leaders: make sure children are placed with proper caregivers to not distract group concentration.",
+      "exercises": ["e1", "e2", "e3", "e4"]
     }
   ],
   "exercises": {
@@ -192,20 +246,36 @@
         "Ask participants to consider doing an altruistic task between this session and the next one. Be careful with the tone of voice to not “order” them to do it. Emphasize they should only do it if they feel like doing it, it is a choice they made. Tell them it is ok if they don’t do it or if they choose not to (giving traumatised individuals options is empowering)."
       ]
     },
-    "id": {
-      "title": "",
-      "objective": "",
+    "e12b": {
+      "title": "Altruism Task Review",
+      "objective": "To empower participants who conducted altruism tasks and promote restoration of trust in others among those who listen to task reviews",
       "steps": [
-        "",
-        ""
+        "Make sure people do not start leaving the group before others volunteer to share their experience.",
+        "Remind the group about the task assigned and ask if anyone who completed the task would like to share their experience. Important: encourage everyone in the group to clap after each experience is shared.",
+        "Write down in a piece of paper/ booklet the altruism tasks completed by the group for record keeping."
       ]
     },
-    "id": {
-      "title": "",
-      "objective": "",
+    "e13": {
+      "title": "Kind Voice",
+      "objective": "Help your participants develop a positive voice to diminish the impact of past negative authoritative messages and relationships",
       "steps": [
-        "",
-        ""
+        "Give participants examples of external negative voices, (someone saying, “You will never be good at this”).",
+        "Give participants examples of negative self-talk, (saying to yourself, “I will never be good at this”).",
+        "Now ask participants to think of positive compliments someone said to them, or positive things they say to themselves when they are alone.",
+        "Invite participants to share the positive statements.",
+        "Invite participants to use a kind voice to say a compliment to someone else in the group.",
+        "Ask participants to remain mindful for the rest of the day of what kind of voice they speak to themselves and others."
+      ]
+    },
+    "e14": {
+      "title": "Five Things",
+      "objective": "The goal of this exercise is to help participants advance their skills of mindfulness (focusing in the present moment) ",
+      "steps": [
+        "Ask your group to look around and together in loud voice identify 5 things they can SEE in this surrounding.",
+        "Ask your group to look around and together in loud voice identify 4 things they can TOUCH in this surrounding.",
+        "Ask your group to look around and together in loud voice identify 3 things they can HEAR in this surrounding.",
+        "Ask your group to look around and together in loud voice identify 2 things they can SMELL in this surrounding.",
+        "Ask your group to look around and together in loud voice identify 1 thing they can TASTE in this surrounding."
       ]
     },
     "id": {
